@@ -1,5 +1,6 @@
 Name: Mark Kevin Picao
 Nickname: Maki
 Program: BS Computer Science Major in Application Development
+Hobby: Playing online mobile games
 
 This file is part of my introductory Git and GitHub assignment.
