@@ -1,0 +1,5 @@
+Git is a distributed version control system used to track changes in files.
+
+GitHub is a platform used to host Git repositories and collaborate with other developers.
+
+Some basic Git concepts include repositories, commits, branches, pull requests, and merging.

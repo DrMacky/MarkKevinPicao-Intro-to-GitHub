@@ -1,0 +1,5 @@
+Name: Mark Kevin Picao
+Nickname: Maki
+Program: BS Computer Science Major in Application Development
+
+This file is part of my introductory Git and GitHub assignment.
